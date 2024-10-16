@@ -1,6 +1,10 @@
-# myapp
+# Flutter Router Guards
 
-A new Flutter project.
+This repository provides a basic example of using route guards in Flutter to protect specific routes in your app.
+
+## Overview
+
+Route guards allow you to control access to particular routes in your Flutter app. With this implementation, you can check conditions (like authentication or permissions) before navigating to certain pages, and redirect the user if they do not meet the required criteria.
 
 ## Getting Started
 
